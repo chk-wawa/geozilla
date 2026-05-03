@@ -1,0 +1,17 @@
+# API keys
+backend/.env
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Binaries / zips
+gh.zip
+gh_2.92.0_macOS_amd64/
+gh_2.92.0_macOS_arm64/
